@@ -1,0 +1,39 @@
+/* LandingPage.css */
+
+.landing-container {
+  max-width: 600px;
+  margin: 4rem auto;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.landing-title {
+  color: #0066cc;
+  margin-bottom: 1.5rem;
+}
+
+.landing-info {
+  margin-bottom: 2rem;
+  font-size: 1rem;
+  color: #333333;
+}
+
+.landing-info p {
+  margin: 0.5rem 0;
+}
+
+.logout-button {
+  padding: 0.75rem 1.5rem;
+  background-color: #cc0000;
+  color: #ffffff;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.logout-button:hover {
+  background-color: #a50000;
+}
